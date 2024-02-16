@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm currently learning the MERN stack (mongoDB, Express, React, Node)
+- 💻 I'm currently learning the MERN stack (MongoDB, ExpressJS, React, NodeJS)
 - 🛠️ I'm currently working on developing my personal website
 - 📫 How to reach me: keeganrjordan@gmail.com
 
