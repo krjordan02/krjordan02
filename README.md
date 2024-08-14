@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 💻 I'm currently learning the MERN stack (MongoDB, ExpressJS, React, NodeJS)
-- 🛠️ I'm currently working on developing my personal website
+- 💻 I'm currently a student at Colorado State University studying CS with a concentration in Software Engineering.
+- 🛠️ I'm currently working on developing a stock trading application aimed to reduce loss for everyday investors.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me: keeganrjordan@gmail.com
 
 <!--
